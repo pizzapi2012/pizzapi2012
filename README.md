@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pizzapi2012&label=Profile%20views&color=0e75b6&style=flat" alt="pizzapi2012" /> </p>
 
-- 🔭 I’m currently working on [CustomMsgBoxs](N/A)
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with [CustomMsgBoxs](N/A)
+- 🤝 I’m looking for help with Nothing
 
 - 💬 Ask me about **Python**
 
