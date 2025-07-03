@@ -11,17 +11,23 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **I like nature**
+- Use a ![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white) Laptop.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact **I like nature** (and use ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) as my search engine)
+
+<h3 align="left"> Consoles I Play 🎮: </h3>
+
+- ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+- ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
+<h3 align="left"> Software that I use </h3>
+
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white" alt="Obsidian"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell"><img src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&amp;logo=pypi&amp;logoColor=1f73b7" alt="PyPi"><img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&amp;logo=github-copilot&amp;logoColor=white" alt="GitHub Copilot">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pizzapi2012&show_icons=true&theme=dark&locale=en&layout=compact" alt="pizzapi2012" /></p>
 
